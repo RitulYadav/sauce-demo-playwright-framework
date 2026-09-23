@@ -1,0 +1,1 @@
+import { basePage } from "./basePage";
