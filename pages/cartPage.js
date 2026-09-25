@@ -27,4 +27,5 @@ export class CartPage extends basePage{
     async checkoutproduct(){
         await this.checkoutbutton.click();
     }
+    
 }
